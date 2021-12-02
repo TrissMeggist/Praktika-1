@@ -17,7 +17,6 @@ namespace Praktika
             InitializeComponent();
         }
 
-zadanie_1_2
         private void btn_AW_BLEND_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -57,7 +56,6 @@ zadanie_1_2
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
-zadanie_1
         }
     }
 }
