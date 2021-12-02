@@ -29,7 +29,6 @@ namespace Praktika
         /// </summary>
         private void InitializeComponent()
         {
-            zadanie_1_2
             this.btnAW_BLEND = new System.Windows.Forms.Button();
             this.btnHOR_AW_SLIDE = new System.Windows.Forms.Button();
             this.btnCenter_AW_SLIDE = new System.Windows.Forms.Button();
@@ -114,13 +113,11 @@ namespace Praktika
             this.axAcroPDF1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axAcroPDF1.OcxState")));
             this.axAcroPDF1.Size = new System.Drawing.Size(194, 191);
             this.axAcroPDF1.TabIndex = 1;
-zadanie_1
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-zadanie_1_2
             this.ClientSize = new System.Drawing.Size(298, 276);
             this.Controls.Add(this.btnCenter_AW_SLIDE);
             this.Controls.Add(this.btnHOR_AW_SLIDE);
@@ -140,12 +137,9 @@ zadanie_1_2
             ((System.ComponentModel.ISupportInitialize)(this.axAcroPDF1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
-zadanie_1
-
         }
 
         #endregion
-zadanie_1_2
         private System.Windows.Forms.Button btnAW_BLEND;
         private System.Windows.Forms.Button btnHOR_AW_SLIDE;
         private System.Windows.Forms.Button btnCenter_AW_SLIDE;
@@ -155,7 +149,6 @@ zadanie_1_2
         private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private AxAcroPDFLib.AxAcroPDF axAcroPDF1;
-zadanie_1
     }
 }
 
