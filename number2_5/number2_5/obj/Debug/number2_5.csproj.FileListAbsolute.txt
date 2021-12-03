@@ -1,0 +1,6 @@
+G:\VS\number2_5\number2_5\bin\Debug\number2_5.exe.config
+G:\VS\number2_5\number2_5\bin\Debug\number2_5.exe
+G:\VS\number2_5\number2_5\bin\Debug\number2_5.pdb
+G:\VS\number2_5\number2_5\obj\Debug\number2_5.csproj.CoreCompileInputs.cache
+G:\VS\number2_5\number2_5\obj\Debug\number2_5.exe
+G:\VS\number2_5\number2_5\obj\Debug\number2_5.pdb

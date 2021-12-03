@@ -1,0 +1,7 @@
+G:\VS\number2_8\number2_8\bin\Debug\number2_8.exe.config
+G:\VS\number2_8\number2_8\bin\Debug\number2_8.exe
+G:\VS\number2_8\number2_8\bin\Debug\number2_8.pdb
+G:\VS\number2_8\number2_8\obj\Debug\number2_8.csprojAssemblyReference.cache
+G:\VS\number2_8\number2_8\obj\Debug\number2_8.csproj.CoreCompileInputs.cache
+G:\VS\number2_8\number2_8\obj\Debug\number2_8.exe
+G:\VS\number2_8\number2_8\obj\Debug\number2_8.pdb
