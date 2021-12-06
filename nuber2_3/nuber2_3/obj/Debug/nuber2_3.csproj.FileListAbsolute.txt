@@ -1,7 +1,0 @@
-G:\VS\nuber2_3\nuber2_3\bin\Debug\nuber2_3.exe.config
-G:\VS\nuber2_3\nuber2_3\bin\Debug\nuber2_3.exe
-G:\VS\nuber2_3\nuber2_3\bin\Debug\nuber2_3.pdb
-G:\VS\nuber2_3\nuber2_3\obj\Debug\nuber2_3.csprojAssemblyReference.cache
-G:\VS\nuber2_3\nuber2_3\obj\Debug\nuber2_3.csproj.CoreCompileInputs.cache
-G:\VS\nuber2_3\nuber2_3\obj\Debug\nuber2_3.exe
-G:\VS\nuber2_3\nuber2_3\obj\Debug\nuber2_3.pdb
